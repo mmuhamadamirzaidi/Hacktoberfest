@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/mmuhamadamirzaidi/repo_name">
     <img src="assets/img/hacktoberfest-logo.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -18,8 +18,6 @@
   <p align="center">
     This repository is basically about adding the name, position, Github username link, LinkedIn profile as well as the country by creating a commit.
     <br />
-    <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues">Report Bug</a>
     ·
@@ -27,8 +25,8 @@
   </p>
 </p>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- SCREENSHOT -->
+## Screenshot
 
 ![Product Name Screen Shot][product-screenshot]
 
@@ -53,7 +51,6 @@ Contributions are what make the open source community such an amazing place to b
 [stars-url]: https://github.com/mmuhamadamirzaidi/Hacktoberfest/stargazers
 [issues-shield]: https://img.shields.io/github/issues/mmuhamadamirzaidi/repo.svg?style=flat-square
 [issues-url]: https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues
-[license-shield]: https://img.shields.io/github/license/mmuhamadamirzaidi/repo.svg?style=flat-square
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mmuhamadamirzaidi
 [product-screenshot]: assets/img/screenshot.png
