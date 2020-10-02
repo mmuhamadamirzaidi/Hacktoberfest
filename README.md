@@ -5,9 +5,6 @@
 </p>
     
 <p align="center">
-    <a href="https://github.com/mmuhamadamirzaidi/github-readme-stats/actions">
-        <img alt="Tests Passing" src="https://github.com/mmuhamadamirzaidi/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
     <a href="https://codecov.io/gh/mmuhamadamirzaidi/github-readme-stats">
         <img src="https://codecov.io/gh/mmuhamadamirzaidi/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
