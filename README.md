@@ -40,7 +40,7 @@ Contributions are what make the open source community such an amazing place to b
 
 1. Fork the Project
 2. Clone Project to the Local Machine (`git clone https://github.com/your_github_username/Hacktoberfest.git`)
-Note: Replace your_github_username by your Github username.
+Note: Replace `your_github_username` with your Github username.
 3. Create Changes as Requested in the Issues
 4. Commit your Changes (`git commit -m 'Add some Message'`)
 5. Push to the Branch (`git push origin hacktober-2020`)
