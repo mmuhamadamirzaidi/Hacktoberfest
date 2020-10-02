@@ -46,7 +46,7 @@ Contributions are what make the open source community such an amazing place to b
              
           _Note: Replace your_github_username with your Github username._
   
-   3.  Create Changes Hactoberfest-2020.html as Requested in the Issues
+   3.  Create Changes to hactoberfest-2020.html as Requested in the Issues
   
    4.  Add your changes
             
