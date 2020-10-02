@@ -8,6 +8,9 @@
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/network/members">
         <img alt="Forks" src="https://img.shields.io/github/forks/mmuhamadamirzaidi/Hacktoberfest?color=0088ff" />
     </a>
+    <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/stargazers">
+        <img alt="Forks" src="https://img.shields.io/github/stars/mmuhamadamirzaidi/Hacktoberfest?color=0088ff" />
+    </a>
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/graphs/contributors">
         <img alt="Contributors" src="https://img.shields.io/github/contributors/mmuhamadamirzaidi/Hacktoberfest?color=0088ff" />
     </a>
