@@ -36,36 +36,36 @@ See the [open issues](https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues)
 <!-- CONTRIBUTING -->
 ## Contributing
 
->Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
   
-    1.  Fork the Project
+   1.  Fork the Project
     
     
-    2.  Clone Project to the Local Machine using CMD or any Terminal 
+   2.  Clone Project to the Local Machine using CMD or any Terminal 
             
-            git clone `https://github.com/your_github_username/Hacktoberfest.git`             
+          >git clone `https://github.com/your_github_username/Hacktoberfest.git`             
              
-                   Note: Replace your_github_username with your Github username.
+          _Note: Replace your_github_username with your Github username._
   
-    3.  Create Changes Hactoberfest-2020.html as Requested in the Issues
+   3.  Create Changes Hactoberfest-2020.html as Requested in the Issues
   
   
-    4.  Add your changes
+   4.  Add your changes
             
-            git add <file you made changes in>
+          >git add <file you made changes in>
   
-    5.  Commit your Changes 
+   5.  Commit your Changes 
             
-            git commit -m `'Add <Your name>'`
+          >git commit -m `'Add <Your name>'`
             
-    6.  Push to the Branch 
+   6.  Push to the Branch 
             
-            git push origin hacktober-2020 
+          >git push origin hacktober-2020 
   
-    7.  Open a Pull Request
+   7.  Open a Pull Request
   
   
-    8.  Don't forget to give a **STAR** for this Project
+   8.  Don't forget to give a **STAR** for this Project
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
