@@ -38,13 +38,14 @@ See the [open issues](https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues)
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-2. Clone Project to the Local Machine (`git clone https://github.com/mmuhamadamirzaidi/Hacktoberfest.git`)
-3. Create Changes as Requested in the Issues
-4. Commit your Changes (`git commit -m 'Add some Message'`)
-5. Push to the Branch (`git push origin hacktober-2020`)
-6. Open a Pull Request
-7. Don't forget to give a **STAR** for this Project
+>1. Fork the Project
+>2. Clone Project to the Local Machine (`git clone https://github.com/<Your Username>/Hacktoberfest.git`)
+>3. Create Changes Hactoberfest-2020.html as Requested in the Issues
+>4. Add your changes(git add <file you made changes in>)
+>5. Commit your Changes (`git commit -m 'Add <Your name>'`)
+>6. Push to the Branch (`git push origin hacktober-2020`)
+>7. Open a Pull Request
+>8. Don't forget to give a **STAR** for this Project
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
