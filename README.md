@@ -40,7 +40,7 @@ Contributions are what make the open source community such an amazing place to b
 
   >1. Fork the Project
   >2. Clone Project to the Local Machine using CMD or any Terminal (`git clone https://github.com/your_github_username/Hacktoberfest.git`)
-                 _Note: Replace your_github_username with your Github username._
+                 /_Note: Replace your_github_username with your Github username._
   >3. Create Changes Hactoberfest-2020.html as Requested in the Issues
   >4. Add your changes(`git add <file you made changes in>`)
   >5. Commit your Changes (`git commit -m 'Add <Your name>'`)
