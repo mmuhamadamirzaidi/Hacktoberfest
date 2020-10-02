@@ -161,4 +161,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mmuhamadamirzaidi
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: asset/img/screenshot.png
