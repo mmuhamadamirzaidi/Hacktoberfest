@@ -42,7 +42,7 @@ Contributions are what make the open source community such an amazing place to b
 2. Clone Project to the Local Machine (`git clone https://github.com/mmuhamadamirzaidi/Hacktoberfest.git`)
 3. Create Changes as Requested in the Issues
 4. Commit your Changes (`git commit -m 'Add some Message'`)
-5. Push to the Branch
+5. Push to the Branch (`git push origin hacktober-2020`)
 6. Open a Pull Request
 7. Don't forget to give a **STAR** for this Project
 
