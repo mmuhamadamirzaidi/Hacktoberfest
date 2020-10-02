@@ -42,24 +42,25 @@ See the [open issues](https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues)
     
     
     2.  Clone Project to the Local Machine using CMD or any Terminal 
-            ( git clone `https://github.com/your_github_username/Hacktoberfest.git`)
+            
+            git clone `https://github.com/your_github_username/Hacktoberfest.git`             
              
-             Note: Replace your_github_username with your Github username.
+                   Note: Replace your_github_username with your Github username.
   
     3.  Create Changes Hactoberfest-2020.html as Requested in the Issues
   
   
     4.  Add your changes
             
-            ( git add <file you made changes in>)
+            git add <file you made changes in>
   
     5.  Commit your Changes 
             
-            ( git commit -m `'Add <Your name>'`)
+            git commit -m `'Add <Your name>'`
             
     6.  Push to the Branch 
             
-            ( git push origin hacktober-2020 )
+            git push origin hacktober-2020 
   
     7.  Open a Pull Request
   
