@@ -15,12 +15,10 @@
         <img alt="Issues" src="https://img.shields.io/github/issues/mmuhamadamirzaidi/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/mmuhamadamirzaidi/github-readme-stats/pulls">
-        <img alt="GitHub pull requests"
-          src="https://img.shields.io/github/issues-pr/mmuhamadamirzaidi/github-readme-stats?color=4CAF50" />
+        <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mmuhamadamirzaidi/github-readme-stats?color=4CAF50" />
     </a>
-
-    <br />
-    <br />
+    <br/>
+    <br/>
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues">Report Bug</a>
     ·
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues">Request Feature</a>
