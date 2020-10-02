@@ -1,141 +1,235 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<meta charset="utf-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no"
+		/>
+		<meta
+			name="description"
+			content="Start your development with a Dashboard for Bootstrap 4."
+		/>
+		<meta name="author" content="Creative Tim" />
+		<title>Hacktoberfest</title>
+		<!-- Favicon -->
+		<link
+			rel="icon"
+			href="assets/img/hacktoberfest-logo.svg"
+			type="image/png"
+		/>
+		<!-- Fonts -->
+		<link
+			rel="stylesheet"
+			href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700"
+		/>
+		<!-- Icons -->
+		<link
+			rel="stylesheet"
+			href="assets/vendor/nucleo/css/nucleo.css"
+			type="text/css"
+		/>
+		<link
+			rel="stylesheet"
+			href="assets/vendor/@fortawesome/fontawesome-free/css/all.min.css"
+			type="text/css"
+		/>
+		<!-- Page plugins -->
+		<link
+			rel="stylesheet"
+			href="assets/vendor/datatables.net-bs4/css/dataTables.bootstrap4.min.css"
+		/>
+		<link
+			rel="stylesheet"
+			href="assets/vendor/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css"
+		/>
+		<link
+			rel="stylesheet"
+			href="assets/vendor/datatables.net-select-bs4/css/select.bootstrap4.min.css"
+		/>
+		<!-- Argon CSS -->
+		<link
+			rel="stylesheet"
+			href="assets/css/argon.css?v=1.1.0"
+			type="text/css"
+		/>
+	</head>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Start your development with a Dashboard for Bootstrap 4.">
-  <meta name="author" content="Creative Tim">
-  <title>Hacktoberfest</title>
-  <!-- Favicon -->
-  <link rel="icon" href="assets/img/hacktoberfest-logo.svg" type="image/png">
-  <!-- Fonts -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
-  <!-- Icons -->
-  <link rel="stylesheet" href="assets/vendor/nucleo/css/nucleo.css" type="text/css">
-  <link rel="stylesheet" href="assets/vendor/@fortawesome/fontawesome-free/css/all.min.css" type="text/css">
-  <!-- Page plugins -->
-  <link rel="stylesheet" href="assets/vendor/datatables.net-bs4/css/dataTables.bootstrap4.min.css">
-  <link rel="stylesheet" href="assets/vendor/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css">
-  <link rel="stylesheet" href="assets/vendor/datatables.net-select-bs4/css/select.bootstrap4.min.css">
-  <!-- Argon CSS -->
-  <link rel="stylesheet" href="assets/css/argon.css?v=1.1.0" type="text/css">
-</head>
+	<body>
+		<!-- Main content -->
+		<div class="main-content" id="panel">
+			<!-- Header -->
+			<div class="header bg-primary pb-6">
+				<div class="container-fluid">
+					<div class="header-body">
+						<div class="row align-items-center py-4">
+							<div class="col-lg-6 col-7">
+								<h6 class="h2 text-white d-inline-block mb-0">Hacktoberfest</h6>
+								<nav
+									aria-label="breadcrumb"
+									class="d-none d-md-inline-block ml-md-4"
+								>
+									<ol class="breadcrumb breadcrumb-links breadcrumb-dark">
+										<li class="breadcrumb-item">
+											<a
+												href="https://hacktoberfest.digitalocean.com/"
+												target="_blank"
+												><i class="fas fa-home"></i
+											></a>
+										</li>
+										<li class="breadcrumb-item active" aria-current="page">
+											2020
+										</li>
+										<li class="breadcrumb-item active" aria-current="page">
+											List Participants
+										</li>
+									</ol>
+								</nav>
+							</div>
+							<div class="col-lg-6 col-5 text-right">
+								<a
+									href="https://hacktoberfest.digitalocean.com/"
+									class="btn btn-sm btn-neutral"
+									target="_blank"
+									>Home</a
+								>
+								<a
+									href="https://hacktoberfest.digitalocean.com/details"
+									class="btn btn-sm btn-neutral"
+									target="_blank"
+									>Resources</a
+								>
+								<a
+									href="https://hacktoberfest.digitalocean.com/events"
+									class="btn btn-sm btn-neutral"
+									target="_blank"
+									>Events</a
+								>
+								<a
+									href="https://hacktoberfest.digitalocean.com/faq"
+									class="btn btn-sm btn-neutral"
+									target="_blank"
+									>FAQS</a
+								>
+								<a
+									href="https://hacktoberfest.digitalocean.com/login"
+									class="btn btn-sm btn-neutral"
+									target="_blank"
+									>Start Hacking</a
+								>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Page content -->
+			<div class="container-fluid mt--6">
+				<!-- Table -->
+				<div class="row">
+					<div class="col">
+						<div class="card">
+							<!-- Card header -->
+							<div class="card-header">
+								<h3 class="mb-0">Hacktoberfest 2020</h3>
+								<p class="text-sm mb-0">
+									This repository is basically about adding the name, position,
+									Github username link, LinkedIn profile as well as the country
+									by creating a commit.
+								</p>
+							</div>
+							<div class="table-responsive py-4">
+								<table class="table table-flush" id="datatable-basic">
+									<thead class="thead-light">
+										<tr>
+											<th>Name</th>
+											<th>Position</th>
+											<th>Github</th>
+											<th>LinkedIn</th>
+											<th>Country</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>Muhamad Amir Bin Zaidi</td>
+											<td>Android Developer (Repository Owner)</td>
+											<td>
+												<a href="https://github.com/mmuhamadamirzaidi"
+													>https://github.com/mmuhamadamirzaidi</a
+												>
+											</td>
+											<td>
+												<a href="https://my.linkedin.com/in/mmuhamadamirzaidi"
+													>https://my.linkedin.com/in/mmuhamadamirzaidi</a
+												>
+											</td>
+											<td>Malaysia</td>
+										</tr>
+										<!-- Please copy and use this structure, and fill with details using format like above -->
+										<tr>
+											<td>Nitin Shukla</td>
+											<td>Full stack Developer</td>
+											<td>
+												<a href="https://github.com/nitinshukla413"
+													>https://github.com/nitinshukla413</a
+												>
+											</td>
+											<td>
+												<a
+													href="https://www.linkedin.com/in/nitin-shukla-80b801161/"
+													>https://www.linkedin.com/in/nitin-shukla-80b801161/</a
+												>
+											</td>
+											<td>India</td>
+										</tr>
 
-<body>
-  <!-- Main content -->
-  <div class="main-content" id="panel">
-
-    <!-- Header -->
-    <div class="header bg-primary pb-6">
-      <div class="container-fluid">
-        <div class="header-body">
-          <div class="row align-items-center py-4">
-            <div class="col-lg-6 col-7">
-              <h6 class="h2 text-white d-inline-block mb-0">Hacktoberfest</h6>
-              <nav aria-label="breadcrumb" class="d-none d-md-inline-block ml-md-4">
-                <ol class="breadcrumb breadcrumb-links breadcrumb-dark">
-                  <li class="breadcrumb-item"><a href="https://hacktoberfest.digitalocean.com/" target="_blank"><i
-                        class="fas fa-home"></i></a></li>
-                  <li class="breadcrumb-item active" aria-current="page">2020</li>
-                  <li class="breadcrumb-item active" aria-current="page">List Participants</li>
-                </ol>
-              </nav>
-            </div>
-            <div class="col-lg-6 col-5 text-right">
-              <a href="https://hacktoberfest.digitalocean.com/" class="btn btn-sm btn-neutral" target="_blank">Home</a>
-              <a href="https://hacktoberfest.digitalocean.com/details" class="btn btn-sm btn-neutral"
-                target="_blank">Resources</a>
-              <a href="https://hacktoberfest.digitalocean.com/events" class="btn btn-sm btn-neutral"
-                target="_blank">Events</a>
-              <a href="https://hacktoberfest.digitalocean.com/faq" class="btn btn-sm btn-neutral"
-                target="_blank">FAQS</a>
-              <a href="https://hacktoberfest.digitalocean.com/login" class="btn btn-sm btn-neutral"
-                target="_blank">Start Hacking</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Page content -->
-    <div class="container-fluid mt--6">
-      <!-- Table -->
-      <div class="row">
-        <div class="col">
-          <div class="card">
-            <!-- Card header -->
-            <div class="card-header">
-              <h3 class="mb-0">Hacktoberfest 2020</h3>
-              <p class="text-sm mb-0">
-                This repository is basically about adding the name, position, Github username link, LinkedIn profile as
-                well as the country by
-                creating a commit.
-              </p>
-            </div>
-            <div class="table-responsive py-4">
-              <table class="table table-flush" id="datatable-basic">
-                <thead class="thead-light">
-                  <tr>
-                    <th>Name</th>
-                    <th>Position</th>
-                    <th>Github</th>
-                    <th>LinkedIn</th>
-                    <th>Country</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>Muhamad Amir Bin Zaidi</td>
-                    <td>Android Developer (Repository Owner)</td>
-                    <td><a href="https://github.com/mmuhamadamirzaidi">https://github.com/mmuhamadamirzaidi</a></td>
-                    <td><a href="https://my.linkedin.com/in/mmuhamadamirzaidi">https://my.linkedin.com/in/mmuhamadamirzaidi</a></td>
-                    <td>Malaysia</td>
-                  </tr>
-                  <!-- Please copy and use this structure, and fill with details using format like above -->
-                  <tr>
-                    <td>Nitin Shukla</td>
-                    <td>Full stack Developer</td>
-                    <td><a href="https://github.com/nitinshukla413">https://github.com/nitinshukla413</a></td>
-                    <td><a href="https://www.linkedin.com/in/nitin-shukla-80b801161/">https://www.linkedin.com/in/nitin-shukla-80b801161/</a></td>
-                    <td>India</td>
-                  </tr>
-
-                  <!-- Please copy and use this structure, and fill with details using format like above -->
-                  <tr>
-                    <td>Name</td>
-                    <td>Position</td>
-                    <td><a href="#">Github Link</a></td>
-                    <td><a href="#">LinkedIn Link</a></td>
-                    <td>Country</td>
-                  </tr>
-                  <!-- Please copy and use this structure, and fill with details using format like above -->
-
-                </tbody>
-              </table>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Argon Scripts -->
-  <!-- Core -->
-  <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/js-cookie/js.cookie.js"></script>
-  <script src="assets/vendor/jquery.scrollbar/jquery.scrollbar.min.js"></script>
-  <script src="assets/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js"></script>
-  <!-- Optional JS -->
-  <script src="assets/vendor/datatables.net/js/jquery.dataTables.min.js"></script>
-  <script src="assets/vendor/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
-  <script src="assets/vendor/datatables.net-buttons/js/dataTables.buttons.min.js"></script>
-  <script src="assets/vendor/datatables.net-buttons-bs4/js/buttons.bootstrap4.min.js"></script>
-  <script src="assets/vendor/datatables.net-buttons/js/buttons.html5.min.js"></script>
-  <script src="assets/vendor/datatables.net-buttons/js/buttons.flash.min.js"></script>
-  <script src="assets/vendor/datatables.net-buttons/js/buttons.print.min.js"></script>
-  <script src="assets/vendor/datatables.net-select/js/dataTables.select.min.js"></script>
-  <!-- Argon JS -->
-  <script src="assets/js/argon.js?v=1.1.0"></script>
-</body>
-
+										<!-- Please copy and use this structure, and fill with details using format like above -->
+										<tr>
+											<td>Soni Laia</td>
+											<td>Web Designer</td>
+											<td>
+												<a href="https://github.com/sonilaia">Sonilaia</a>
+											</td>
+											<td>
+												<a href="https://www.linkedin.com/in/sonilaia/"
+													>Sonilaia</a
+												>
+											</td>
+											<td>Country</td>
+										</tr>
+										<!-- Please copy and use this structure, and fill with details using format like above -->
+										<tr>
+											<td>Name</td>
+											<td>Position</td>
+											<td><a href="#">Github Link</a></td>
+											<td><a href="#">LinkedIn Link</a></td>
+											<td>Country</td>
+										</tr>
+										<!-- Please copy and use this structure, and fill with details using format like above -->
+									</tbody>
+								</table>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Argon Scripts -->
+		<!-- Core -->
+		<script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+		<script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+		<script src="assets/vendor/js-cookie/js.cookie.js"></script>
+		<script src="assets/vendor/jquery.scrollbar/jquery.scrollbar.min.js"></script>
+		<script src="assets/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js"></script>
+		<!-- Optional JS -->
+		<script src="assets/vendor/datatables.net/js/jquery.dataTables.min.js"></script>
+		<script src="assets/vendor/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+		<script src="assets/vendor/datatables.net-buttons/js/dataTables.buttons.min.js"></script>
+		<script src="assets/vendor/datatables.net-buttons-bs4/js/buttons.bootstrap4.min.js"></script>
+		<script src="assets/vendor/datatables.net-buttons/js/buttons.html5.min.js"></script>
+		<script src="assets/vendor/datatables.net-buttons/js/buttons.flash.min.js"></script>
+		<script src="assets/vendor/datatables.net-buttons/js/buttons.print.min.js"></script>
+		<script src="assets/vendor/datatables.net-select/js/dataTables.select.min.js"></script>
+		<!-- Argon JS -->
+		<script src="assets/js/argon.js?v=1.1.0"></script>
+	</body>
 </html>
