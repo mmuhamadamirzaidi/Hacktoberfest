@@ -40,7 +40,6 @@ Contributions are what make the open source community such an amazing place to b
   
    1.  Fork the Project
     
-    
    2.  Clone Project to the Local Machine using CMD or any Terminal 
             
           >git clone `https://github.com/your_github_username/Hacktoberfest.git`             
@@ -49,14 +48,13 @@ Contributions are what make the open source community such an amazing place to b
   
    3.  Create Changes Hactoberfest-2020.html as Requested in the Issues
   
-  
    4.  Add your changes
             
           >git add <file you made changes in>
   
    5.  Commit your Changes 
             
-          >git commit -m `'Add <Your name>'`
+          >git commit -m `'Add <Your Name>'`
             
    6.  Push to the Branch 
             
@@ -64,8 +62,38 @@ Contributions are what make the open source community such an amazing place to b
   
    7.  Open a Pull Request
   
-  
    8.  Don't forget to give a **STAR** for this Project
+
+## Milestone
+
+1. Milestone 1 []
+```sh
+10 List Details Added
+```
+2. Milestone 2 []
+```sh
+20 List Details Added
+```
+3. Milestone 3 []
+```sh
+30 List Details Added
+```
+4. Milestone 4 []
+```sh
+40 List Details Added
+```
+5. Milestone 5 []
+```sh
+50 List Details Added
+```
+6. Milestone 6 []
+```sh
+100 List Details Added
+```
+7. Milestone 7 []
+```sh
+100 Star For This Repository
+```
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
