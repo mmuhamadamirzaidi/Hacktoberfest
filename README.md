@@ -1,26 +1,29 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <a href="https://github.com/mmuhamadamirzaidi/repo_name">
-    <img src="assets/img/hacktoberfest-logo.svg" alt="Logo" width="80" height="80">
-  </a>
+    <img src="assets/img/hacktoberfest-logo.svg" alt="Hacktoberfest Logo" width="auto" height="100">
+    <h2 align="center">Hacktoberfest</h2>
+    <p align="center">This repository is basically about adding the name, position, Github username link, LinkedIn profile as well as the country by creating a commit.</p>
+</p>
+    
+<p align="center">
+    <a href="https://github.com/mmuhamadamirzaidi/github-readme-stats/actions">
+        <img alt="Tests Passing" src="https://github.com/mmuhamadamirzaidi/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://codecov.io/gh/mmuhamadamirzaidi/github-readme-stats">
+        <img src="https://codecov.io/gh/mmuhamadamirzaidi/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/mmuhamadamirzaidi/github-readme-stats/issues">
+        <img alt="Issues" src="https://img.shields.io/github/issues/mmuhamadamirzaidi/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/mmuhamadamirzaidi/github-readme-stats/pulls">
+        <img alt="GitHub pull requests"
+          src="https://img.shields.io/github/issues-pr/mmuhamadamirzaidi/github-readme-stats?color=4CAF50" />
+    </a>
 
-  <h3 align="center">Hacktoberfest</h3>
-
-  <p align="center">
-    This repository is basically about adding the name, position, Github username link, LinkedIn profile as well as the country by creating a commit.
     <br />
     <br />
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues">Report Bug</a>
     ·
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues">Request Feature</a>
-  </p>
 </p>
 
 <!-- SCREENSHOT -->
