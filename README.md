@@ -5,14 +5,14 @@
 </p>
     
 <p align="center">
-    <a href="https://codecov.io/gh/mmuhamadamirzaidi/github-readme-stats">
-        <img src="https://codecov.io/gh/mmuhamadamirzaidi/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/mmuhamadamirzaidi/Hacktoberfest">
+        <img src="https://codecov.io/gh/mmuhamadamirzaidi/Hacktoberfest/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/mmuhamadamirzaidi/github-readme-stats/issues">
-        <img alt="Issues" src="https://img.shields.io/github/issues/mmuhamadamirzaidi/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues">
+        <img alt="Issues" src="https://img.shields.io/github/issues/mmuhamadamirzaidi/Hacktoberfest?color=0088ff" />
     </a>
-    <a href="https://github.com/mmuhamadamirzaidi/github-readme-stats/pulls">
-        <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mmuhamadamirzaidi/github-readme-stats?color=4CAF50" />
+    <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/pulls">
+        <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mmuhamadamirzaidi/Hacktoberfest?color=4CAF50" />
     </a>
     <br/>
     <br/>
