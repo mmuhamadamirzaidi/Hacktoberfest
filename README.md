@@ -1,26 +1,30 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <a href="https://github.com/mmuhamadamirzaidi/repo_name">
-    <img src="assets/img/hacktoberfest-logo.svg" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Hacktoberfest</h3>
-
-  <p align="center">
-    This repository is basically about adding the name, position, Github username link, LinkedIn profile as well as the country by creating a commit.
-    <br />
-    <br />
+    <img src="assets/img/hacktoberfest-logo.svg" alt="Hacktoberfest Logo" width="auto" height="100">
+    <h2 align="center">Hacktoberfest</h2>
+    <p align="center">This repository is basically about adding the name, position, Github username link, LinkedIn profile as well as the country by creating a commit.</p>
+</p>
+    
+<p align="center">
+    <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/network/members">
+        <img alt="Forks" src="https://img.shields.io/github/forks/mmuhamadamirzaidi/Hacktoberfest?color=9d65c9" />
+    </a>
+    <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/stargazers">
+        <img alt="Forks" src="https://img.shields.io/github/stars/mmuhamadamirzaidi/Hacktoberfest?color=f0a500" />
+    </a>
+    <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/graphs/contributors">
+        <img alt="Contributors" src="https://img.shields.io/github/contributors/mmuhamadamirzaidi/Hacktoberfest?color=0088ff" />
+    </a>
+    <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues">
+        <img alt="Issues" src="https://img.shields.io/github/issues/mmuhamadamirzaidi/Hacktoberfest?color=ff4b5c" />
+    </a>
+    <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/pulls">
+        <img alt="Pull Request" src="https://img.shields.io/github/issues-pr/mmuhamadamirzaidi/Hacktoberfest?color=4CAF50" />
+    </a>
+    <br/>
+    <br/>
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues">Report Bug</a>
     ·
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues">Request Feature</a>
-  </p>
 </p>
 
 <!-- SCREENSHOT -->
