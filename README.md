@@ -33,6 +33,37 @@
 
 See the [open issues](https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues) for a list of proposed features (and known issues).
 
+### Milestone
+
+1. Milestone 1 []
+```sh
+10 List Details Added
+```
+2. Milestone 2 []
+```sh
+20 List Details Added
+```
+3. Milestone 3 []
+```sh
+30 List Details Added
+```
+4. Milestone 4 []
+```sh
+40 List Details Added
+```
+5. Milestone 5 []
+```sh
+50 List Details Added
+```
+6. Milestone 6 []
+```sh
+100 List Details Added
+```
+7. Milestone 7 []
+```sh
+100 Star For This Repository
+```
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
