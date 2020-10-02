@@ -6,13 +6,16 @@
     
 <p align="center">
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/network/members">
-        <img alt="Forks" src="https://img.shields.io/github/forks/mmuhamadamirzaidi/Hacktoberfest?color=0088ff" />
+        <img alt="Forks" src="https://img.shields.io/github/forks/mmuhamadamirzaidi/Hacktoberfest?color=9d65c9" />
+    </a>
+    <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/stargazers">
+        <img alt="Forks" src="https://img.shields.io/github/stars/mmuhamadamirzaidi/Hacktoberfest?color=f0a500" />
     </a>
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/graphs/contributors">
         <img alt="Contributors" src="https://img.shields.io/github/contributors/mmuhamadamirzaidi/Hacktoberfest?color=0088ff" />
     </a>
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues">
-        <img alt="Issues" src="https://img.shields.io/github/issues/mmuhamadamirzaidi/Hacktoberfest?color=0088ff" />
+        <img alt="Issues" src="https://img.shields.io/github/issues/mmuhamadamirzaidi/Hacktoberfest?color=ff4b5c" />
     </a>
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/pulls">
         <img alt="Pull Request" src="https://img.shields.io/github/issues-pr/mmuhamadamirzaidi/Hacktoberfest?color=4CAF50" />
