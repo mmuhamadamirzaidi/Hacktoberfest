@@ -30,6 +30,11 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues) for a list of proposed features (and known issues).
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
