@@ -111,4 +111,4 @@ Contributions are what make the open source community such an amazing place to b
 [issues-url]: https://github.com/mmuhamadamirzaidi/Hacktoberfest/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mmuhamadamirzaidi
-[product-screenshot]: assets/img/screenshot.png
+[product-screenshot]: assets/img/screenshot.pngd
