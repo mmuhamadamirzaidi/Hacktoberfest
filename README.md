@@ -82,7 +82,7 @@ Contributions are what make the open source community such an amazing place to b
 ```sh
 30 List Details Added
 ```
-4. Milestone 4 []
+4. Milestone 4 [Achieved 13 October 2020]
 ```sh
 40 List Details Added
 ```
