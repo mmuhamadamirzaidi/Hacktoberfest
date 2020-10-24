@@ -3,6 +3,8 @@
     <h2 align="center">Hacktoberfest</h2>
     <p align="center">This repository is basically about adding the name, position, Github username link, LinkedIn profile as well as the country by creating a commit.</p>
 </p>
+
+[![Muhamad Amir's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/mmuhamadamirzaidi)
     
 <p align="center">
     <a href="https://github.com/mmuhamadamirzaidi/Hacktoberfest/network/members">
