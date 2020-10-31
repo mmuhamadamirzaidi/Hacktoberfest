@@ -90,14 +90,6 @@ Contributions are what make the open source community such an amazing place to b
 ```sh
 50 List Details Added
 ```
-6. Milestone 6 []
-```sh
-100 List Details Added
-```
-7. Milestone 7 []
-```sh
-100 Star For This Repository
-```
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
